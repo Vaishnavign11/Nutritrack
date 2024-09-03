@@ -1,4 +1,4 @@
-### Health Management APP
+### Nutritrack(food calorie prediction) APP
 from dotenv import load_dotenv
 
 load_dotenv() ## load all the environment variables
